@@ -6,4 +6,10 @@ de l'espace.
 Et encore une ligne à propos de la mummy.
 Et là fuck Mars, c'est le dieux de la guerre. Vénus peut-être?
 modif clone
+<<<<<<< HEAD
 modif collision2
+=======
+Est-ce que c'est ma modif qui va gagner?
+modif c 
+Encore une modif
+autre modif
